@@ -11,4 +11,4 @@ Current interests include:
 - documentation and information architecture
 - legacy systems and software preservation
 
-Most projects here are independent personal work.
+Projects here are independent personal work unless noted otherwise.
