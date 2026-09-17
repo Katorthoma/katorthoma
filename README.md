@@ -1,16 +1,16 @@
-## Hi there 👋
+# Katorthoma
 
-<!--
-**Katorthoma/katorthoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across infrastructure, operations, security, automation, and AI governance, with a focus on making complex systems more reliable, understandable, and useful.
 
-Here are some ideas to get you started:
+This account is where I build and document small tools, experiments, and open-source projects that solve problems I find interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests include:
+
+* AI governance, risk, and responsible adoption
+* infrastructure and operations tooling
+* security, resilience, and privacy
+* automation and developer tooling
+* documentation and information architecture
+* legacy systems and software preservation
+
+Most projects here are independent personal work.
