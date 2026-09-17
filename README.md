@@ -12,3 +12,7 @@ Current interests include:
 - legacy systems and software preservation
 
 Projects here are independent personal work unless noted otherwise.
+
+---
+
+**Katorthoma** comes from Stoic philosophy: right action, done for the right reasons.
